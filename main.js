@@ -58,15 +58,15 @@ const bulkPastePreview = document.getElementById('bulkPastePreview');
 const bulkPasteApproveBtn = document.getElementById('bulkPasteApproveBtn');
 
 // --- Options ---
-const allianceOptions = ['SOh', 'AoW', 'REB', 'HtH', 'RIS', 'BER'];
+const allianceOptions = ['HoH', 'DDZ', 'FR1', 'RuM', 'RIP', 'OTHER'];
 const levelOptions = ['FC-10', 'FC-9', 'FC-8', 'FC-7', 'FC-6', 'FC-5', 'FC-4', 'FC-3', 'FC-2', 'FC-1'];
 const allianceColors = {
-    'AoW': '#FF5733',
-    'REB': '#33FF57',
-    'HtH': '#3357FF',
-    'BER': '#FF33DA',
-    'SOh': '#F4D03F',
-    'RIS': '#8A2BE2'
+    'HoH': '#FF5733',
+    'DDZ': '#33FF57',
+    'FR1': '#3357FF',
+    'RuM': '#FF33DA',
+    'RIP': '#F4D03F',
+    'OTHER': '#8A2BE2'
 };
 
 // --- Page Navigation ---
