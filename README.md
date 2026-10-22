@@ -5,7 +5,7 @@ You can **add players manually** or use the **Paste Player Data** feature for bu
 ### Option 1: Manual Entry
 - Enter each player's details in the form:
   - Name
-  - Alliance (AoW, BER, HtH, SOh, REB, RIS)
+  - Alliance (HoH, DDZ, FR1, RuM, RIP, OTHER)
   - FC Level (e.g., FC-5)
   - Troops Level (e.g., FC-5)
 
